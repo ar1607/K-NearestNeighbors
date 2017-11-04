@@ -15,3 +15,16 @@ K-Nearest Neighbors (K-NN)
 Write a Python3 program to solve the aforementioned problems. Your program should use sys.argv[] for taking four argument inputs including K, N, D, and PATH TO DATA. Make sure your program does not download the dataset during execution.
 
 Sample Command : python 4916525888.py 5 100 10 ./cifar-10-batches-py/data batch 1
+
+Sample Output :
+
+    3 6
+    8 9
+    9 9
+    6 4
+    0 1
+    1 1
+    2 2
+    0 7
+    6 8
+    0 3                                               
