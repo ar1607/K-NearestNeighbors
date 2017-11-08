@@ -9,7 +9,7 @@ Principal Component Analysis (PCA)
 
 
 K-Nearest Neighbors (K-NN)
-“K-nearest neighbors algorithm (K-NN) is a non-parametric method used for classifica- tion. A query object is classified by a majority vote of the K closest training examples (i.e. its neighbors) in the feature space. In this problem, the objective is to implement a K-NN classifier to perform image classification given the image features obtained by PCA.”
+“K-nearest neighbors algorithm (K-NN) is a non-parametric method used for classification. A query object is classified by a majority vote of the K closest training examples (i.e. its neighbors) in the feature space. In this problem, the objective is to implement a K-NN classifier to perform image classification given the image features obtained by PCA.”
 
 
 Write a Python3 program to solve the aforementioned problems. Your program should use sys.argv[] for taking four argument inputs including K, N, D, and PATH TO DATA. Make sure your program does not download the dataset during execution.
